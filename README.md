@@ -38,10 +38,18 @@ O loop continua executando enquanto o primeiro número for menor que o segundo.
 <h2>Resultado no Console:</h2>
 
 Digite o primeiro número: 2
+
 ========================
+
 Digite o segundo número: 7
+
+
 Hello World
+
 Hello World
+
 Hello World
+
 Hello World
+
 Hello World
